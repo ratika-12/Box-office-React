@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Aman21591.github.io/box-office",
+  "homepage": "/",
   "name": "box-office",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "react-fade-in": "^2.0.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.0",
     "styled-components": "^5.3.0",
     "web-vitals": "^1.1.2"
   },
@@ -30,10 +30,6 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
